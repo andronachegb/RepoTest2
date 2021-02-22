@@ -10,9 +10,9 @@
             <item transferableToolId="com.fnfr.itest.applications.webservices.restful" transferableType="com.fnfr.itest.applications.webservices.properties.HTTPHeaderEntry" header="content-type" header.inherit="false" value="application/json" value.inherit="false"/>
         </httpHeader>
     </sessionProperties>
-    <responseLibrary inherit="false">project://project2/</responseLibrary>
-    <formMapLibrary inherit="false">project://project2/</formMapLibrary>
-    <sessionClassTestCase inherit="false">project://project2/session_profiles/qcLib1.fftc</sessionClassTestCase>
+    <responseLibrary inherit="false">project://RepoTest2</responseLibrary>
+    <formMapLibrary inherit="false">project://RepoTest2</formMapLibrary>
+    <sessionClassTestCase inherit="false">project://RepoTest2/session_profiles/qcLib1.fftc</sessionClassTestCase>
     <isReferenceProfile>true</isReferenceProfile>
     <language>Python</language>
 </SessionTemplate>
