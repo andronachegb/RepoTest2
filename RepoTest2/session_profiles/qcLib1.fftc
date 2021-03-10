@@ -7,14 +7,14 @@
     <procedures>
         <item name="main">
             <steps>
-                <item guid="798cdff5-4dcf-4198-a838-45a0fca72286" action="comment" useFieldsInCommand="false">
+                <item guid="835ddc83-77af-4fb8-b06c-1e71bcf3e030" action="comment" useFieldsInCommand="false">
                     <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
                 </item>
             </steps>
         </item>
         <item name="proc1" isPublic="true">
             <steps>
-                <item guid="c39eb748-42d2-4152-a405-bc8a0f9f6c6d" action="eval" useFieldsInCommand="false">
+                <item guid="3222fdee-e06f-4d54-b618-8601c2887d59" action="eval" useFieldsInCommand="false">
                     <command>
                         <body>print(argm)</body>
                     </command>
@@ -64,7 +64,7 @@
         </item>
         <item name="proc2" isPublic="true">
             <steps>
-                <item guid="ea02ba3f-9f37-4c46-b877-c5966e4b67e8" action="eval" useFieldsInCommand="false">
+                <item guid="006033e6-32bc-41b9-9ffa-4e838cce78cf" action="eval" useFieldsInCommand="false">
                     <command>
                         <body>print(argm)</body>
                     </command>
@@ -114,7 +114,7 @@
         </item>
         <item name="proc3" isPublic="true">
             <steps>
-                <item guid="b3956c55-85f7-45e9-ab1f-ecde92e5b8b4" action="eval" useFieldsInCommand="false">
+                <item guid="9cb0a614-0f9e-413e-b3a1-11f57c02a662" action="eval" useFieldsInCommand="false">
                     <command>
                         <body>print(argm)</body>
                     </command>
