@@ -974,6 +974,7 @@ area</value>
 				</attachment>
 			</defaultConfigAttach>
 		</template>
+	</templates>
 	<orchestratedResources>
 		<orchestratedResource>
 			<id>c89d3e10-d062-446a-86fa-e3b46bcc7c59</id>
