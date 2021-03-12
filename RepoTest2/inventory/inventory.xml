@@ -1090,4 +1090,106 @@ area</value>
 			</nestedResources>
 		</orchestratedResource>
 	</orchestratedResources>
+	<abstractResources>
+		<abstractResource>
+			<id>386fb963-5c14-452a-a9cd-1b0646d83c03</id>
+			<type>DEVICE</type>
+			<name>RepoTest2-Abstract Device</name>
+			<description>Desc</description>
+			<condition>template[T1.1]</condition>
+			<reservationTime>IMMEDIATE</reservationTime>
+			<isPublic>false</isPublic>
+			<icon>
+				<attachment>
+					<id>ca40a739-a713-47e3-a450-dde53430d2d7</id>
+					<name>ice_screenshot_20210304-003429.png</name>
+					<contentType>image/png</contentType>
+				</attachment>
+			</icon>
+			<sessions>
+				<session>
+					<id>8f698f82-2507-416b-b8d8-b15b360f563c</id>
+					<sessionId>85ace385-f018-4961-8995-c96d79347fc4</sessionId>
+					<name>SSH</name>
+					<language>Python</language>
+					<baseProfile>application://com.fnfr.svt.applications.ssh</baseProfile>
+					<baseApplication>com.fnfr.svt.applications.ssh</baseApplication>
+					<isDisabled>false</isDisabled>
+					<abstractResourceId>386fb963-5c14-452a-a9cd-1b0646d83c03</abstractResourceId>
+					<properties>
+						<property>
+							<id>e9afbd38-ca56-45e9-856f-2e1d7fa5751d</id>
+							<name>password</name>
+							<value>iRyLc4KQj80=</value>
+						</property>
+						<property>
+							<id>8b5a254a-3996-4883-ac59-ff4d344f6b6d</id>
+							<name>ipAddress</name>
+							<value>127.0.0.1</value>
+						</property>
+						<property>
+							<id>f083e56e-9cb5-4c7a-be32-c322cfdfcc02</id>
+							<name>type</name>
+							<value>com.fnfr.svt.applications.ssh.documents.SSHProperties</value>
+						</property>
+						<property>
+							<id>82aa8a6e-c1a2-4ec0-8f3a-42606384d9c2</id>
+							<name>user</name>
+							<value>root</value>
+						</property>
+					</properties>
+				</session>
+			</sessions>
+			<nestedResources>
+				<abstractResource>
+					<id>5da1ab5b-6775-435b-96cf-dc792c32712d</id>
+					<type>DEVICE</type>
+					<name>Abstract Nested</name>
+					<description>Description</description>
+					<condition>template[T1.N]</condition>
+					<reservationTime>IMMEDIATE</reservationTime>
+					<isPublic>true</isPublic>
+					<referencedTemplateId>f6792f0a-190d-4ca5-9459-099f4e1aa898</referencedTemplateId>
+					<icon>
+						<attachment>
+							<id>9fa04735-03f1-4cc9-b8e7-b2a794210106</id>
+							<name>ice_screenshot_20201014-175931.png</name>
+							<contentType>image/png</contentType>
+						</attachment>
+					</icon>
+				</abstractResource>
+				<abstractResource>
+					<id>3d990bc9-cac7-4150-9f77-859dce3e9a13</id>
+					<type>PORT</type>
+					<name>Abstract Port</name>
+					<description>Description</description>
+					<condition>template[T-Port]</condition>
+					<reservationTime>IMMEDIATE</reservationTime>
+					<isPublic>true</isPublic>
+					<referencedTemplateId>79d2ccd3-6a77-46df-ac89-eaa3c6fea153</referencedTemplateId>
+					<icon/>
+				</abstractResource>
+			</nestedResources>
+		</abstractResource>
+		<abstractResource>
+			<id>9f6cf0a3-da35-43b6-8db2-cd6f3e6e3136</id>
+			<type>LINK</type>
+			<name>RepoTest2-Abstract Link</name>
+			<description>Description</description>
+			<condition>integer[Port Speed] >= 0</condition>
+			<reservationTime>IMMEDIATE</reservationTime>
+			<isPublic>true</isPublic>
+			<icon/>
+		</abstractResource>
+		<abstractResource>
+			<id>5a4737ef-7271-4680-a0a2-29f0c73f3513</id>
+			<type>PORT</type>
+			<name>RepoTest2-Abstract Port</name>
+			<description>Description</description>
+			<condition>template[T-Port]</condition>
+			<reservationTime>IMMEDIATE</reservationTime>
+			<isPublic>true</isPublic>
+			<icon/>
+		</abstractResource>
+	</abstractResources>
 </inventory>
