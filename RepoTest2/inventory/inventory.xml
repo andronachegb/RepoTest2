@@ -2,12 +2,12 @@
 <inventory format-version="1.0">
 	<templates>
 		<template>
-			<id>7aebafc5-f7ca-49a0-a8a6-d3c38c0d9ffc</id>
-			<revisionId>7aebafc5-f7ca-49a0-a8a6-d3c38c0d9ffc</revisionId>
+			<id>e58d81da-6b9b-4a99-a877-0d13cc3ba658</id>
+			<revisionId>e58d81da-6b9b-4a99-a877-0d13cc3ba658</revisionId>
 			<name>T1</name>
 			<description></description>
 			<isTemplate>true</isTemplate>
-			<driverId>1b411358-7a34-498e-befc-51cc2b5d0150</driverId>
+			<driverId>17a7abbe-0bf1-498f-a8d1-2c3b5ef239bf</driverId>
 			<type>DEVICE</type>
 			<interfaceType>CONFIGURABLE_LAYER2_SWITCH</interfaceType>
 			<utilizationType>SHARED</utilizationType>
