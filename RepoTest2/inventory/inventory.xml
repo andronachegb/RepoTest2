@@ -7,7 +7,7 @@
 			<name>T1</name>
 			<description></description>
 			<isTemplate>true</isTemplate>
-			<driverId>cb411358-7a34-498e-befc-51cc2b5d0150</driverId>
+			<driverId>1b411358-7a34-498e-befc-51cc2b5d0150</driverId>
 			<type>DEVICE</type>
 			<interfaceType>CONFIGURABLE_LAYER2_SWITCH</interfaceType>
 			<utilizationType>SHARED</utilizationType>
