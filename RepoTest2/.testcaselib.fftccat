@@ -4,7 +4,7 @@
         <item name="session_profiles/qcLib1.fftc">
             <tcDescriptor version="8.4.0.202012071239">
                 <general>
-                    <sessionClass includeTestCase="true" sessionType="project://RepoTest2/session_profiles/REST.ffsp"/>
+                    <sessionClass includeTestCase="true" sessionType="project://RepoTest1/session_profiles/REST.ffsp"/>
                     <language>Python</language>
                 </general>
                 <procedures>

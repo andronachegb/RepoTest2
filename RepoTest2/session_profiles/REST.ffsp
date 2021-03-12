@@ -6,6 +6,6 @@
     </sessionProperties>
     <responseLibrary inherit="false">project://RepoTest2/</responseLibrary>
     <formMapLibrary inherit="false">project://RepoTest2/</formMapLibrary>
-    <sessionClassTestCase inherit="false">project://RepoTest2/session_profiles/qcLib1.fftc</sessionClassTestCase>
+    <sessionClassTestCase inherit="false">project://RepoTest1/session_profiles/qcLib1.fftc</sessionClassTestCase>
     <language>Python</language>
 </SessionTemplate>
