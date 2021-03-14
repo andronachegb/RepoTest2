@@ -12,6 +12,12 @@
                     </command>
                     <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
                 </item>
+                <item guid="8ed5f2ef-8d11-4ee5-bbd7-dafeb2de219f" action="eval" useFieldsInCommand="false">
+                    <command>
+                        <body>test = &apos;2021-03-11T07:14:09,629Z INFO  [com.spirent.rlm.api.callback.CallbackApiService] (default task-26) Callback notification received on create/update spirent/testname-def&apos;</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
                 <item guid="b1708ace-df8d-4913-8bdf-96b6fc0da959" action="open" session="s1">
                     <command>
                         <body>project://RepoTest2/session_profiles/REST.ffsp</body>
@@ -25,7 +31,7 @@
                 </item>
                 <item guid="5668b992-4b57-4a82-904d-a27b11ee5fa1" action="proc1" session="s1" useFieldsInCommand="false">
                     <command>
-                        <body>-argm testing</body>
+                        <body>-argm [test]</body>
                     </command>
                     <postProcessing>
                         <analysisRules>
@@ -56,6 +62,21 @@
                                                 <actionProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
                                             </item>
                                         </actionsWhenFalse>
+                                    </ruleProperties>
+                                </processorInfo>
+                            </item>
+                            <item>
+                                <extractorInfo extractorType="query">
+                                    <extractorProperties type="com.fnfr.svt.mapping.execution.extractors.QueryDataExtractorPropertyGroup">
+                                        <query>INFO()</query>
+                                    </extractorProperties>
+                                </extractorInfo>
+                                <processorInfo ruleType="store">
+                                    <ruleProperties type="com.fnfr.svt.execution.builtin.processors.StoreProcessorPropertyGroup">
+                                        <storageLocation>var1</storageLocation>
+                                        <responseValue type="com.fnfr.documents.PropertyBoolean">false</responseValue>
+                                        <variable type="com.fnfr.documents.PropertyBoolean">true</variable>
+                                        <secret type="com.fnfr.documents.PropertyBoolean">false</secret>
                                     </ruleProperties>
                                 </processorInfo>
                             </item>
@@ -76,7 +97,7 @@
                 </item>
                 <item guid="f3169182-8823-40bd-98a4-60eb33dc92fc" action="proc1" session="s2" useFieldsInCommand="false">
                     <command>
-                        <body>-argm testing</body>
+                        <body>-argm [test]</body>
                     </command>
                     <postProcessing>
                         <analysisRules>
@@ -110,8 +131,29 @@
                                     </ruleProperties>
                                 </processorInfo>
                             </item>
+                            <item>
+                                <extractorInfo extractorType="query">
+                                    <extractorProperties type="com.fnfr.svt.mapping.execution.extractors.QueryDataExtractorPropertyGroup">
+                                        <query>INFO()</query>
+                                    </extractorProperties>
+                                </extractorInfo>
+                                <processorInfo ruleType="store">
+                                    <ruleProperties type="com.fnfr.svt.execution.builtin.processors.StoreProcessorPropertyGroup">
+                                        <storageLocation>var1</storageLocation>
+                                        <responseValue type="com.fnfr.documents.PropertyBoolean">false</responseValue>
+                                        <variable type="com.fnfr.documents.PropertyBoolean">true</variable>
+                                        <secret type="com.fnfr.documents.PropertyBoolean">false</secret>
+                                    </ruleProperties>
+                                </processorInfo>
+                            </item>
                         </analysisRules>
                     </postProcessing>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
+                <item guid="aab88cce-f53b-4443-ac57-dc8eeee66fe0" action="eval" useFieldsInCommand="false">
+                    <command>
+                        <body>print(var1)</body>
+                    </command>
                     <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
                 </item>
             </steps>

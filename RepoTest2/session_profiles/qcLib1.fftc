@@ -100,6 +100,12 @@
                     </postProcessing>
                     <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
                 </item>
+                <item guid="cfd24378-3081-49c1-91a5-fe3038cf4e08" action="return">
+                    <command>
+                        <body>[argm]</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
             </steps>
             <arguments>
                 <item name="argm">
@@ -196,6 +202,12 @@
                     </postProcessing>
                     <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
                 </item>
+                <item guid="e05d0cf6-4a38-4be2-b2d7-1241a66f3793" action="return">
+                    <command>
+                        <body>[argm]</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
             </steps>
             <arguments>
                 <item name="argm">
@@ -290,6 +302,12 @@
                             </item>
                         </analysisRules>
                     </postProcessing>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
+                <item guid="f980c503-6831-4d03-b942-3292ba27b203" action="return">
+                    <command>
+                        <body>[argm]</body>
+                    </command>
                     <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
                 </item>
             </steps>
