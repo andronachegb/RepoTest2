@@ -2,13 +2,48 @@
 <inventory format-version="1.0">
 	<templates>
 		<template>
-			<id>fd4f2c38-2c1b-4534-9b34-79f567347681</id>
-			<revisionId>fd4f2c38-2c1b-4534-9b34-79f567347681</revisionId>
+			<id>269149b3-db77-47f5-8697-ed2c8bb67c3f</id>
+			<revisionId>269149b3-db77-47f5-8697-ed2c8bb67c3f</revisionId>
 			<name>T1</name>
 			<description></description>
 			<isTemplate>true</isTemplate>
 			<type>DEVICE</type>
-			<interfaceType>MANAGEMENT</interfaceType>
+			<interfaceType>NONE</interfaceType>
+			<utilizationType>SHARED</utilizationType>
+			<reservationTime>IMMEDIATE</reservationTime>
+			<isCustomReservationTime>false</isCustomReservationTime>
+			<icon/>
+			<defaultImageAttach/>
+			<defaultConfigAttach/>
+			<nestedTemplates>
+				<nestedTemplate>
+					<id>0856f846-a935-45aa-a29e-407285fd03c2</id>
+				</nestedTemplate>
+			</nestedTemplates>
+		</template>
+		<template>
+			<id>0856f846-a935-45aa-a29e-407285fd03c2</id>
+			<revisionId>0856f846-a935-45aa-a29e-407285fd03c2</revisionId>
+			<name>T-Nested</name>
+			<description></description>
+			<isTemplate>true</isTemplate>
+			<type>DEVICE</type>
+			<interfaceType>NONE</interfaceType>
+			<utilizationType>SHARED</utilizationType>
+			<reservationTime>IMMEDIATE</reservationTime>
+			<isCustomReservationTime>false</isCustomReservationTime>
+			<icon/>
+			<defaultImageAttach/>
+			<defaultConfigAttach/>
+		</template>
+		<template>
+			<id>cb5210f7-55a7-4160-83b2-6aa8435a5508</id>
+			<revisionId>cb5210f7-55a7-4160-83b2-6aa8435a5508</revisionId>
+			<name>T-Port</name>
+			<description></description>
+			<isTemplate>true</isTemplate>
+			<type>PORT</type>
+			<interfaceType>NONE</interfaceType>
 			<utilizationType>SHARED</utilizationType>
 			<reservationTime>IMMEDIATE</reservationTime>
 			<isCustomReservationTime>false</isCustomReservationTime>
@@ -18,6 +53,41 @@
 		</template>
 	</templates>
 	<orchestratedResources/>
-	<abstractResources/>
+	<abstractResources>
+		<abstractResource>
+			<id>e85d8959-1b26-4a23-9600-9d6267e979f2</id>
+			<type>DEVICE</type>
+			<name>AbsT1</name>
+			<description></description>
+			<condition>template[T1]</condition>
+			<reservationTime>IMMEDIATE</reservationTime>
+			<isPublic>true</isPublic>
+			<icon/>
+			<nestedResources>
+				<abstractResource>
+					<id>de25ccf3-7da8-4215-93b2-f56e30ecce73</id>
+					<type>DEVICE</type>
+					<name>AbsT-Nested</name>
+					<description></description>
+					<condition>template[T-Nested]</condition>
+					<reservationTime>IMMEDIATE</reservationTime>
+					<isPublic>true</isPublic>
+					<referencedTemplateId>0856f846-a935-45aa-a29e-407285fd03c2</referencedTemplateId>
+					<icon/>
+				</abstractResource>
+				<abstractResource>
+					<id>709e1bd1-d585-4e37-b173-218cb02e329f</id>
+					<type>PORT</type>
+					<name>AbsT-Port</name>
+					<description></description>
+					<condition>template[T-Port]</condition>
+					<reservationTime>IMMEDIATE</reservationTime>
+					<isPublic>true</isPublic>
+					<referencedTemplateId>cb5210f7-55a7-4160-83b2-6aa8435a5508</referencedTemplateId>
+					<icon/>
+				</abstractResource>
+			</nestedResources>
+		</abstractResource>
+	</abstractResources>
 	<topologies/>
 </inventory>
