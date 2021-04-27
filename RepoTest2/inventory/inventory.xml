@@ -31,11 +31,6 @@
 			<utilizationType>SHARED</utilizationType>
 			<reservationTime>IMMEDIATE</reservationTime>
 			<isCustomReservationTime>false</isCustomReservationTime>
-			<nestedTemplates>
-				<nestedTemplate>
-					<id>3111ae11-256d-4aea-8484-138b3835445a</id>
-				</nestedTemplate>
-			</nestedTemplates>
 		</template>
 	</templates>
 </inventory>
