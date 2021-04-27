@@ -4,7 +4,7 @@
 		<template>
 			<id>f166d969-0d3b-477d-83ae-d3deec21c7e6</id>
 			<revisionId>f166d969-0d3b-477d-83ae-d3deec21c7e6</revisionId>
-			<name>Template T1 - SCM1</name>
+			<name>Template T1 - SCM2</name>
 			<description>Description - SCM1</description>
 			<isTemplate>true</isTemplate>
 			<driverId>9b86c385-49ea-44aa-9225-729cf7a3f230</driverId>
@@ -22,7 +22,7 @@
 		<template>
 			<id>82f7fa26-75b2-4401-99a7-e98a41bea9ee</id>
 			<revisionId>82f7fa26-75b2-4401-99a7-e98a41bea9ee</revisionId>
-			<name>Template T1 Nested L1 - SCM1</name>
+			<name>Template T1 Nested L1 - SCM2</name>
 			<description>Description - SCM1</description>
 			<isTemplate>true</isTemplate>
 			<driverId>9b86c385-49ea-44aa-9225-729cf7a3f230</driverId>
