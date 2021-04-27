@@ -37,18 +37,5 @@
 				</nestedTemplate>
 			</nestedTemplates>
 		</template>
-		<template>
-			<id>3111ae11-256d-4aea-8484-138b3835445a</id>
-			<revisionId>3111ae11-256d-4aea-8484-138b3835445a</revisionId>
-			<name>Template T1 Nested L2 - SCM1</name>
-			<description>Description - SCM1</description>
-			<isTemplate>true</isTemplate>
-			<driverId>9b86c385-49ea-44aa-9225-729cf7a3f230</driverId>
-			<type>DEVICE</type>
-			<interfaceType>ORCHESTRATION</interfaceType>
-			<utilizationType>SHARED</utilizationType>
-			<reservationTime>IMMEDIATE</reservationTime>
-			<isCustomReservationTime>false</isCustomReservationTime>
-		</template>
 	</templates>
 </inventory>
