@@ -3,6 +3,9 @@
     <general>
         <language>Python</language>
     </general>
+    <requirements>
+        <requirement key="pool">driver</requirement>
+    </requirements>
     <procedures>
         <item name="main">
             <steps>
