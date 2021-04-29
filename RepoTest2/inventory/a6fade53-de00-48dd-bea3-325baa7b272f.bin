@@ -1,0 +1,2147 @@
+{
+   "Thu Mar 25 13:22:30 EET":{
+      "minioEntries":"0",
+      "inodeConsumption":{
+         "/data/minio":"65",
+         "/data/minio/content-standalone/velocity-services/reporting":"2"
+      },
+      "topConsumer":"/data/pgsql93",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:23:35 EET":{
+      "minioEntries":"0",
+      "inodeConsumption":{
+         "/data/minio":"65",
+         "/data/minio/content-standalone/velocity-services/reporting":"2"
+      },
+      "topConsumer":"/data/pgsql93",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:24:40 EET":{
+      "minioEntries":"0",
+      "inodeConsumption":{
+         "/data/minio":"68",
+         "/data/minio/content-standalone/velocity-services/reporting":"2"
+      },
+      "topConsumer":"/data/pgsql93",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:25:45 EET":{
+      "minioEntries":"0",
+      "inodeConsumption":{
+         "/data/minio":"68",
+         "/data/minio/content-standalone/velocity-services/reporting":"2"
+      },
+      "topConsumer":"/data/pgsql93",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:26:50 EET":{
+      "minioEntries":"0",
+      "inodeConsumption":{
+         "/data/minio":"68",
+         "/data/minio/content-standalone/velocity-services/reporting":"2"
+      },
+      "topConsumer":"/data/pgsql93",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:27:55 EET":{
+      "minioEntries":"1913",
+      "inodeConsumption":{
+         "/data/minio":"5904",
+         "/data/minio/content-standalone/velocity-services/reporting":"1988"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:29:01 EET":{
+      "minioEntries":"7111",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"7283"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:30:08 EET":{
+      "minioEntries":"13732",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:31:15 EET":{
+      "minioEntries":"20843",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:32:23 EET":{
+      "minioEntries":"22178",
+      "inodeConsumption":{
+         "/data/minio":"67034",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:33:32 EET":{
+      "minioEntries":"27471",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:34:42 EET":{
+      "minioEntries":"34986",
+      "inodeConsumption":{
+         "/data/minio":"105080",
+         "/data/minio/content-standalone/velocity-services/reporting":"35072"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:35:53 EET":{
+      "minioEntries":"36665",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"36684"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:37:03 EET":{
+      "minioEntries":"37059",
+      "inodeConsumption":{
+         "/data/minio":"111252",
+         "/data/minio/content-standalone/velocity-services/reporting":"37089"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:38:12 EET":{
+      "minioEntries":"37568",
+      "inodeConsumption":{
+         "/data/minio":"112786",
+         "/data/minio/content-standalone/velocity-services/reporting":"37586"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:39:21 EET":{
+      "minioEntries":"38626",
+      "inodeConsumption":{
+         "/data/minio":"115958",
+         "/data/minio/content-standalone/velocity-services/reporting":"38639"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:40:31 EET":{
+      "minioEntries":"39984",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:41:43 EET":{
+      "minioEntries":"42946",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:42:54 EET":{
+      "minioEntries":"52168",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:44:06 EET":{
+      "minioEntries":"61337",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:45:18 EET":{
+      "minioEntries":"64528",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:46:33 EET":{
+      "minioEntries":"68095",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:47:47 EET":{
+      "minioEntries":"74525",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:49:03 EET":{
+      "minioEntries":"82182",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:50:23 EET":{
+      "minioEntries":"92205",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:51:38 EET":{
+      "minioEntries":"101269",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:52:53 EET":{
+      "minioEntries":"112646",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:54:11 EET":{
+      "minioEntries":"124662",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:55:31 EET":{
+      "minioEntries":"137838",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:56:51 EET":{
+      "minioEntries":"147974",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:58:11 EET":{
+      "minioEntries":"156779",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 13:59:34 EET":{
+      "minioEntries":"161382",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:01:05 EET":{
+      "minioEntries":"165425",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:02:32 EET":{
+      "minioEntries":"167716",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:03:55 EET":{
+      "minioEntries":"169946",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:05:15 EET":{
+      "minioEntries":"175274",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:06:37 EET":{
+      "minioEntries":"181605",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:07:59 EET":{
+      "minioEntries":"189947",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:09:25 EET":{
+      "minioEntries":"199319",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:10:50 EET":{
+      "minioEntries":"212387",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:12:17 EET":{
+      "minioEntries":"224466",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:13:45 EET":{
+      "minioEntries":"238109",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:15:16 EET":{
+      "minioEntries":"252263",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:16:47 EET":{
+      "minioEntries":"265648",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:18:16 EET":{
+      "minioEntries":"274667",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:19:47 EET":{
+      "minioEntries":"281794",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:21:21 EET":{
+      "minioEntries":"289449",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:22:55 EET":{
+      "minioEntries":"297603",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:24:28 EET":{
+      "minioEntries":"303266",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:26:02 EET":{
+      "minioEntries":"309243",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:27:36 EET":{
+      "minioEntries":"316498",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:29:11 EET":{
+      "minioEntries":"327770",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:30:46 EET":{
+      "minioEntries":"336453",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:32:26 EET":{
+      "minioEntries":"347183",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:34:05 EET":{
+      "minioEntries":"357253",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:35:40 EET":{
+      "minioEntries":"359398",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:37:18 EET":{
+      "minioEntries":"360948",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:39:00 EET":{
+      "minioEntries":"369718",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:40:47 EET":{
+      "minioEntries":"375512",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"null",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:42:34 EET":{
+      "minioEntries":"377548",
+      "inodeConsumption":{
+         "/data/minio":"1132712",
+         "/data/minio/content-standalone/velocity-services/reporting":"377550"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"null",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:44:37 EET":{
+      "minioEntries":"377548",
+      "inodeConsumption":{
+         "/data/minio":"1132712",
+         "/data/minio/content-standalone/velocity-services/reporting":"377550"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"null",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:46:20 EET":{
+      "minioEntries":"377548",
+      "inodeConsumption":{
+         "/data/minio":"1132712",
+         "/data/minio/content-standalone/velocity-services/reporting":"377550"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"null",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:48:08 EET":{
+      "minioEntries":"377548",
+      "inodeConsumption":{
+         "/data/minio":"1132712",
+         "/data/minio/content-standalone/velocity-services/reporting":"377550"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1132712\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:49:49 EET":{
+      "minioEntries":"377548",
+      "inodeConsumption":{
+         "/data/minio":"1132712",
+         "/data/minio/content-standalone/velocity-services/reporting":"377550"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1132712\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:51:32 EET":{
+      "minioEntries":"377548",
+      "inodeConsumption":{
+         "/data/minio":"1132712",
+         "/data/minio/content-standalone/velocity-services/reporting":"377550"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1132712\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:53:13 EET":{
+      "minioEntries":"377548",
+      "inodeConsumption":{
+         "/data/minio":"1132712",
+         "/data/minio/content-standalone/velocity-services/reporting":"377550"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1132712\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:55:00 EET":{
+      "minioEntries":"378715",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1132712\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:56:38 EET":{
+      "minioEntries":"383635",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1132712\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 14:58:19 EET":{
+      "minioEntries":"388560",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1132712\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:00:03 EET":{
+      "minioEntries":"393457",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1132712\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:01:48 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1132712\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:03:32 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1132712\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:05:15 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1132712\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:06:55 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1132712\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:08:35 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:10:24 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:12:12 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:13:55 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:15:39 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:17:25 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:19:15 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:21:00 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:22:43 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:24:29 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:26:12 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:27:54 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:29:42 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:31:22 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:33:10 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:34:56 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:36:42 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:38:31 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:40:16 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:42:06 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:43:56 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:45:42 EET":{
+      "minioEntries":"397956",
+      "inodeConsumption":{
+         "/data/minio":"1193936",
+         "/data/minio/content-standalone/velocity-services/reporting":"397958"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:47:26 EET":{
+      "minioEntries":"398158",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:49:20 EET":{
+      "minioEntries":"401770",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:51:07 EET":{
+      "minioEntries":"408106",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:52:59 EET":{
+      "minioEntries":"417310",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:54:58 EET":{
+      "minioEntries":"427506",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:56:48 EET":{
+      "minioEntries":"437331",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 15:58:37 EET":{
+      "minioEntries":"449280",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:00:36 EET":{
+      "minioEntries":"461465",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:02:33 EET":{
+      "minioEntries":"473635",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:04:28 EET":{
+      "minioEntries":"485408",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:06:22 EET":{
+      "minioEntries":"495307",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:08:17 EET":{
+      "minioEntries":"499621",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:10:14 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:12:10 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:14:10 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1193936\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:16:11 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:18:10 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:20:02 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:22:02 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:23:55 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:25:49 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:27:38 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:29:32 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:31:29 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:33:26 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:35:24 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:37:23 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:39:17 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:41:10 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:43:06 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:45:05 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"499998"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:46:58 EET":{
+      "minioEntries":"499996",
+      "inodeConsumption":{
+         "/data/minio":"1500056",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:48:54 EET":{
+      "minioEntries":"504857",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:50:51 EET":{
+      "minioEntries":"512546",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:52:50 EET":{
+      "minioEntries":"520684",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:54:51 EET":{
+      "minioEntries":"529284",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:56:56 EET":{
+      "minioEntries":"541304",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 16:58:59 EET":{
+      "minioEntries":"554797",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:01:05 EET":{
+      "minioEntries":"567663",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:03:10 EET":{
+      "minioEntries":"581074",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"581630"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:05:16 EET":{
+      "minioEntries":"581628",
+      "inodeConsumption":{
+         "/data/minio":"1744952",
+         "/data/minio/content-standalone/velocity-services/reporting":"581630"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:07:26 EET":{
+      "minioEntries":"581628",
+      "inodeConsumption":{
+         "/data/minio":"1744952",
+         "/data/minio/content-standalone/velocity-services/reporting":"581630"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:09:30 EET":{
+      "minioEntries":"581628",
+      "inodeConsumption":{
+         "/data/minio":"1744952",
+         "/data/minio/content-standalone/velocity-services/reporting":"581630"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 3%, warning: 3%, critical: 5%. INode usage under /data/minio: 1500056\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:11:32 EET":{
+      "minioEntries":"581628",
+      "inodeConsumption":{
+         "/data/minio":"1744952",
+         "/data/minio/content-standalone/velocity-services/reporting":"581630"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:13:41 EET":{
+      "minioEntries":"581628",
+      "inodeConsumption":{
+         "/data/minio":"1744952",
+         "/data/minio/content-standalone/velocity-services/reporting":"581630"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:15:46 EET":{
+      "minioEntries":"581628",
+      "inodeConsumption":{
+         "/data/minio":"1744952",
+         "/data/minio/content-standalone/velocity-services/reporting":"581630"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:17:50 EET":{
+      "minioEntries":"581628",
+      "inodeConsumption":{
+         "/data/minio":"1744952",
+         "/data/minio/content-standalone/velocity-services/reporting":"581630"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:19:53 EET":{
+      "minioEntries":"581628",
+      "inodeConsumption":{
+         "/data/minio":"1744952",
+         "/data/minio/content-standalone/velocity-services/reporting":"581630"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:21:59 EET":{
+      "minioEntries":"581628",
+      "inodeConsumption":{
+         "/data/minio":"1744952",
+         "/data/minio/content-standalone/velocity-services/reporting":"581630"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:24:05 EET":{
+      "minioEntries":"581628",
+      "inodeConsumption":{
+         "/data/minio":"1744952",
+         "/data/minio/content-standalone/velocity-services/reporting":"581630"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:26:11 EET":{
+      "minioEntries":"581628",
+      "inodeConsumption":{
+         "/data/minio":"1744952",
+         "/data/minio/content-standalone/velocity-services/reporting":"581630"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:28:09 EET":{
+      "minioEntries":"581628",
+      "inodeConsumption":{
+         "/data/minio":"1744952",
+         "/data/minio/content-standalone/velocity-services/reporting":"581630"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:30:08 EET":{
+      "minioEntries":"581628",
+      "inodeConsumption":{
+         "/data/minio":"1744952",
+         "/data/minio/content-standalone/velocity-services/reporting":"581630"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:32:02 EET":{
+      "minioEntries":"581628",
+      "inodeConsumption":{
+         "/data/minio":"1744952",
+         "/data/minio/content-standalone/velocity-services/reporting":"581630"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:34:05 EET":{
+      "minioEntries":"581628",
+      "inodeConsumption":{
+         "/data/minio":"1744952",
+         "/data/minio/content-standalone/velocity-services/reporting":"581630"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:36:09 EET":{
+      "minioEntries":"581783",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:38:18 EET":{
+      "minioEntries":"588138",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:40:25 EET":{
+      "minioEntries":"599564",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:42:23 EET":{
+      "minioEntries":"606726",
+      "inodeConsumption":{
+         "/data/minio":"1820246",
+         "/data/minio/content-standalone/velocity-services/reporting":"606728"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:44:28 EET":{
+      "minioEntries":"606726",
+      "inodeConsumption":{
+         "/data/minio":"1820246",
+         "/data/minio/content-standalone/velocity-services/reporting":"606728"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:46:35 EET":{
+      "minioEntries":"606726",
+      "inodeConsumption":{
+         "/data/minio":"1820246",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:48:40 EET":{
+      "minioEntries":"610894",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:50:49 EET":{
+      "minioEntries":"619127",
+      "inodeConsumption":{
+         "/data/minio":"Error",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/esearch/data",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:52:57 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869992",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:55:05 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869992",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:57:14 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869992",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1744952\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 17:59:27 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869992",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869992\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:01:41 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869992",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869992\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:04:02 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869992",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869992\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:06:16 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869992",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869992\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:08:18 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869992",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869992\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:10:25 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869992",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869992\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:12:35 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869992",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869992\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:14:43 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869992",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869992\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:16:53 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869992",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869992\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:19:03 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869992",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869992\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:21:13 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869992",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869992\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:23:21 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869992",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869992\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:25:31 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869992",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869992\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:27:39 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869989",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869989\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:29:48 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869989",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869989\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:31:56 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869989",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869989\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:34:04 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869989",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869989\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:36:15 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869989",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869989\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:38:24 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869989",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869989\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:40:41 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869989",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869989\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:42:55 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869989",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869989\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:45:08 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869989",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869989\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:47:28 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869989",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869989\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:49:44 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869989",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869989\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:51:55 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869989",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869989\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:54:10 EET":{
+      "minioEntries":"623308",
+      "inodeConsumption":{
+         "/data/minio":"1869989",
+         "/data/minio/content-standalone/velocity-services/reporting":"623310"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869989\\n\"",
+      "perc":"4%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:56:30 EET":{
+      "minioEntries":"602201",
+      "inodeConsumption":{
+         "/data/minio":"1752613",
+         "/data/minio/content-standalone/velocity-services/reporting":"543889"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1869989\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 18:58:21 EET":{
+      "minioEntries":"443346",
+      "inodeConsumption":{
+         "/data/minio":"1284742",
+         "/data/minio/content-standalone/velocity-services/reporting":"398702"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1555362\\n\"",
+      "perc":"3%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 19:00:02 EET":{
+      "minioEntries":"285988",
+      "inodeConsumption":{
+         "/data/minio":"821256",
+         "/data/minio/content-standalone/velocity-services/reporting":"257610"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1555362\\n\"",
+      "perc":"2%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 19:01:26 EET":{
+      "minioEntries":"171308",
+      "inodeConsumption":{
+         "/data/minio":"497630",
+         "/data/minio/content-standalone/velocity-services/reporting":"153316"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1555362\\n\"",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 19:02:38 EET":{
+      "minioEntries":"62048",
+      "inodeConsumption":{
+         "/data/minio":"175906",
+         "/data/minio/content-standalone/velocity-services/reporting":"54168"
+      },
+      "topConsumer":"/data/minio",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1555362\\n\"",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 19:03:43 EET":{
+      "minioEntries":"0",
+      "inodeConsumption":{
+         "/data/minio":"20",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/pgsql93",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1555362\\n\"",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   },
+   "Thu Mar 25 19:04:48 EET":{
+      "minioEntries":"0",
+      "inodeConsumption":{
+         "/data/minio":"20",
+         "/data/minio/content-standalone/velocity-services/reporting":"Error"
+      },
+      "topConsumer":"/data/pgsql93",
+      "healthMonitorStatus":"\"INode usage: 4%, warning: 3%, critical: 5%. INode usage under /data/minio: 1555362\\n\"",
+      "perc":"1%",
+      "checkInodeUsage.pl":"OK"
+   }
+}
