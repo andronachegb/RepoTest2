@@ -22,9 +22,9 @@
 <property isimportant="false" name="ilo_iconId">89858bbd-6219-468d-8634-731d4e7c7bec</property>
 <property isimportant="false" name="hostResource_topologyResourceId"/>
 <property isimportant="false" name="hostResource_parentType"/>
-<property isimportant="false" name="orchestratedResourceRole">S1_VELOCITY_SELECTED</property>
 <property isimportant="false" name="templateId">81ea6096-0ecc-44fc-ad54-0bc82d9480ed</property>
 <property isimportant="false" name="ilo_shape">RECTANGLE</property>
+<property isimportant="false" name="orchestratedResourceRole">S1_VELOCITY_SELECTED</property>
 <extensions type="com.fnfr.rm.condition" xs:namespace="com.fnfr.rm.condition">template[Template A - SCM2]</extensions>
 <boundary height="100" width="100" x="20" y="35"/>
 <resource guid="dc987fdb-e4cc-4350-8b4e-cd0129118fc3" id="ibd800f13-a518-46db-8d9c-8feddc508915" type="port">
@@ -52,9 +52,9 @@
 <property isimportant="false" name="ilo_iconId">89858bbd-6219-468d-8634-731d4e7c7bec</property>
 <property isimportant="false" name="hostResource_topologyResourceId">i156e1ec1-369b-406a-b3ab-1b52c21087e0</property>
 <property isimportant="false" name="hostResource_parentType">PARENT</property>
-<property isimportant="false" name="orchestratedResourceRole">S2_ORCHESTRATED</property>
 <property isimportant="false" name="templateId">649e0975-b3ef-4b68-ad1e-6439941be9f3</property>
 <property isimportant="false" name="ilo_shape">RECTANGLE</property>
+<property isimportant="false" name="orchestratedResourceRole">S2_ORCHESTRATED</property>
 <boundary height="100" width="100" x="20" y="155"/>
 <resource guid="56b7eef7-871b-4ac0-9295-8d642b4a321c" id="ie2811a9e-c26c-4d41-94dd-387485ebdb2e" type="port">
 <property isimportant="false" name="name">Port 1</property>
@@ -79,9 +79,9 @@
 <property isimportant="false" name="ilo_iconId">89858bbd-6219-468d-8634-731d4e7c7bec</property>
 <property isimportant="false" name="hostResource_topologyResourceId">i3c6f66ec-722e-4254-b6bc-e0fa0fbed7d1</property>
 <property isimportant="false" name="hostResource_parentType">PARENT</property>
-<property isimportant="false" name="orchestratedResourceRole">S2_ORCHESTRATED</property>
 <property isimportant="false" name="templateId">e2ac5bea-5b99-4e56-999e-60b707fb43f4</property>
 <property isimportant="false" name="ilo_shape">RECTANGLE</property>
+<property isimportant="false" name="orchestratedResourceRole">S2_ORCHESTRATED</property>
 <boundary height="100" width="100" x="20" y="275"/>
 <resource guid="fcfec10d-0daf-40f9-a723-5fea0ef43f4a" id="i798b2787-97d4-43d0-b4e8-5b4a62ddf1b2" type="port">
 <property isimportant="false" name="name">Port 1</property>
@@ -188,7 +188,8 @@
 <property isimportant="false" name="description"/>
 <property isimportant="false" name="connectivity">any</property>
 <property isimportant="false" name="keepOnRemoveConnection">true</property>
-<extensions type="com.fnfr.rm.condition" xs:namespace="com.fnfr.rm.condition">template[Repo1-Template Port - SCM2]</extensions>
+<property name="ilo_iconId"/>
+<extensions type="com.fnfr.rm.condition" xs:namespace="com.fnfr.rm.condition">template[Template Port - SCM2]</extensions>
 <property name="inventoryName"/>
 </resource>
 <resource guid="df9164fc-ec3e-4f9f-ad6a-608ebc13679a" id="i3220a18b-884b-499d-a9dd-551f0b157eb3" type="port">
@@ -196,7 +197,8 @@
 <property isimportant="false" name="description"/>
 <property isimportant="false" name="connectivity">any</property>
 <property isimportant="false" name="keepOnRemoveConnection">true</property>
-<extensions type="com.fnfr.rm.condition" xs:namespace="com.fnfr.rm.condition">template[Repo1-Template Port - SCM2]</extensions>
+<property name="ilo_iconId"/>
+<extensions type="com.fnfr.rm.condition" xs:namespace="com.fnfr.rm.condition">template[Template Port - SCM2]</extensions>
 <property name="inventoryName"/>
 </resource>
 <resource guid="62458082-80bd-4c9b-9640-415a59d75bf2" id="i054de936-cd95-4803-8c71-6f07418f155b" type="port">
@@ -204,7 +206,8 @@
 <property isimportant="false" name="description"/>
 <property isimportant="false" name="connectivity">any</property>
 <property isimportant="false" name="keepOnRemoveConnection">true</property>
-<extensions type="com.fnfr.rm.condition" xs:namespace="com.fnfr.rm.condition">template[Repo1-Template Port - SCM2]</extensions>
+<property name="ilo_iconId"/>
+<extensions type="com.fnfr.rm.condition" xs:namespace="com.fnfr.rm.condition">template[Template Port - SCM2]</extensions>
 <property name="inventoryName"/>
 </resource>
 <property name="inventoryName"/>
@@ -218,9 +221,9 @@
 <property isimportant="false" name="ilo_iconId">89858bbd-6219-468d-8634-731d4e7c7bec</property>
 <property isimportant="false" name="hostResource_topologyResourceId"/>
 <property isimportant="false" name="hostResource_parentType"/>
-<property isimportant="false" name="orchestratedResourceRole">S2_ORCHESTRATED</property>
 <property isimportant="false" name="templateId">21a58132-9ad3-4e1e-9475-35a1d8824d28</property>
 <property isimportant="false" name="ilo_shape">RECTANGLE</property>
+<property isimportant="false" name="orchestratedResourceRole">S2_ORCHESTRATED</property>
 <boundary height="100" width="100" x="483" y="98"/>
 <resource guid="b2e34f3f-fcae-4663-8584-375f8f9faecf" id="i25d9d7ea-93ee-4edb-8382-f3566e02cfad" type="port">
 <property isimportant="false" name="name">Port 1</property>
@@ -282,12 +285,13 @@
 <extensions type="com.fnfr.rm.condition" xs:namespace="com.fnfr.rm.condition">any</extensions>
 <property name="inventoryName"/>
 </resource>
-<resource guid="acaf6ae1-cf2a-4f93-8918-2aebb427b6dc" id="if1852d50-4aae-4dfe-8587-a7eef65c1688" type="port">
+<resource guid="if1852d50-4aae-4dfe-8587-a7eef65c1688" id="if1852d50-4aae-4dfe-8587-a7eef65c1688" type="port">
 <property isimportant="false" name="name">Port 2</property>
 <property isimportant="false" name="description"/>
 <property isimportant="false" name="connectivity">any</property>
 <property isimportant="false" name="keepOnRemoveConnection">true</property>
-<extensions type="com.fnfr.rm.condition" xs:namespace="com.fnfr.rm.condition">template[Repo1-Template Port - SCM2]</extensions>
+<property name="ilo_iconId"/>
+<extensions type="com.fnfr.rm.condition" xs:namespace="com.fnfr.rm.condition">template[Template Port - SCM2]</extensions>
 <property name="inventoryName"/>
 </resource>
 <property name="inventoryName"/>
