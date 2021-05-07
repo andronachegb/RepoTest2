@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<TestCaseCatalog version="8.5.0.202104211757">
+    <testCaseCatalog>
+        <item name="dependentFiles/qucikCallLibrary.fftc">
+            <tcDescriptor version="8.5.0.202104211757">
+                <general>
+                    <sessionClass includeTestCase="true" sessionType="project://RepoTest2/dependentFiles/REST.ffsp"/>
+                    <language>Python</language>
+                </general>
+                <procedures>
+                    <item name="checkHost" isPublic="true">
+                        <arguments>
+                            <item name="host">
+                                <isMandatory>true</isMandatory>
+                            </item>
+                        </arguments>
+                    </item>
+                </procedures>
+            </tcDescriptor>
+        </item>
+    </testCaseCatalog>
+</TestCaseCatalog>

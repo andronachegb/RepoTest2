@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SessionTemplate version="8.5.0.202104211757">
+    <baseApplication>com.fnfr.itest.applications.webservices.restful</baseApplication>
+    <sessionProperties type="com.fnfr.svt.adapter.automation.tools.common.documents.TransferableDocumentObject" transferableToolId="com.fnfr.itest.applications.webservices.restful" transferableType="com.fnfr.itest.applications.webservices.properties.restful.RESTfulSessionProperties" url="https://[param(&apos;velocityServer&apos;)]" url.inherit="false"/>
+    <responseLibrary inherit="false">project://RepoTest2/</responseLibrary>
+    <formMapLibrary inherit="false">project://RepoTest2/</formMapLibrary>
+    <sessionClassTestCase inherit="false">project://RepoTest2/dependentFiles/qucikCallLibrary.fftc</sessionClassTestCase>
+    <language>Python</language>
+</SessionTemplate>
