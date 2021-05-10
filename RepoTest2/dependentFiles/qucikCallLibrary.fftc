@@ -6,9 +6,24 @@
     </general>
     <procedures>
         <item name="main"/>
-        <item name="checkHost" isPublic="true">
+        <item name="checkHost1" isPublic="true">
             <steps>
                 <item guid="4d4401d2-7311-4f36-baf6-25854b3ecb6f" action="return">
+                    <command>
+                        <body>[host]</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
+            </steps>
+            <arguments>
+                <item name="host">
+                    <isMandatory>true</isMandatory>
+                </item>
+            </arguments>
+        </item>
+        <item name="checkHost2" isPublic="true">
+            <steps>
+                <item guid="03ada681-ebbe-47c8-8786-1dd09669ba3a" action="return">
                     <command>
                         <body>[host]</body>
                     </command>

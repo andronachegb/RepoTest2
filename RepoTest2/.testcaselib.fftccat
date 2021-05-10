@@ -8,7 +8,14 @@
                     <language>Python</language>
                 </general>
                 <procedures>
-                    <item name="checkHost" isPublic="true">
+                    <item name="checkHost1" isPublic="true">
+                        <arguments>
+                            <item name="host">
+                                <isMandatory>true</isMandatory>
+                            </item>
+                        </arguments>
+                    </item>
+                    <item name="checkHost2" isPublic="true">
                         <arguments>
                             <item name="host">
                                 <isMandatory>true</isMandatory>
