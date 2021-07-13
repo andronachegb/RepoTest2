@@ -16,6 +16,11 @@
 			<icon/>
 			<defaultImageAttach/>
 			<defaultConfigAttach/>
+			<nestedTemplates>
+				<nestedTemplate>
+					<id>9ef9f526-b0bb-45c7-96a4-596d5bf39c82</id>
+				</nestedTemplate>
+			</nestedTemplates>
 		</template>
 		<template>
 			<id>9ef9f526-b0bb-45c7-96a4-596d5bf39c82</id>
