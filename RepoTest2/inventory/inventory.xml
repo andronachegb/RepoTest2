@@ -51,6 +51,22 @@
 				<name></name>
 			</resourceGroup>
 			<icon/>
+			<nestedResources>
+				<orchestratedResource>
+					<id>fffb1d45-8019-4e6f-9699-ff88432c592d</id>
+					<type>DEVICE</type>
+					<name>S2</name>
+					<description></description>
+					<condition>template[T2]</condition>
+					<role>S1_VELOCITY_SELECTED</role>
+					<referencedTemplateId>1eccfb1b-00c3-4b2e-97d1-244dbb79d626</referencedTemplateId>
+					<visibility>PUBLIC</visibility>
+					<resourceGroup>
+						<name></name>
+					</resourceGroup>
+					<icon/>
+				</orchestratedResource>
+			</nestedResources>
 		</orchestratedResource>
 	</orchestratedResources>
 	<abstractResources>
@@ -63,6 +79,19 @@
 			<reservationTime>IMMEDIATE</reservationTime>
 			<isPublic>true</isPublic>
 			<icon/>
+			<nestedResources>
+				<abstractResource>
+					<id>69b94d1b-f8e5-4f51-b5cc-87fed0c96fb9</id>
+					<type>DEVICE</type>
+					<name>AbsT2</name>
+					<description></description>
+					<condition>template[T2]</condition>
+					<reservationTime>IMMEDIATE</reservationTime>
+					<isPublic>true</isPublic>
+					<referencedTemplateId>1eccfb1b-00c3-4b2e-97d1-244dbb79d626</referencedTemplateId>
+					<icon/>
+				</abstractResource>
+			</nestedResources>
 		</abstractResource>
 	</abstractResources>
 	<topologies/>
