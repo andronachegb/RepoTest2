@@ -1,1 +1,39 @@
-<?xml version='1.0' encoding='UTF-8'?><inventory format-version="1.0"><templates><template><id>56ecd8a8-602e-496b-a645-162fb7d68741</id><revisionId>56ecd8a8-602e-496b-a645-162fb7d68741</revisionId><name>T1</name><description></description><isTemplate>true</isTemplate><type>DEVICE</type><interfaceType>ORCHESTRATION</interfaceType><utilizationType>SHARED</utilizationType><reservationTime>IMMEDIATE</reservationTime><isCustomReservationTime>false</isCustomReservationTime><icon/><defaultImageAttach/><defaultConfigAttach/></template><template><id>2bd1aba6-9fbc-4782-9ec5-a44b5b54fb35</id><revisionId>2bd1aba6-9fbc-4782-9ec5-a44b5b54fb35</revisionId><name>T2</name><description></description><isTemplate>true</isTemplate><parentTemplateId>56ecd8a8-602e-496b-a645-162fb7d68741</parentTemplateId><type>DEVICE</type><interfaceType>ORCHESTRATION</interfaceType><utilizationType>SHARED</utilizationType><reservationTime>IMMEDIATE</reservationTime><isCustomReservationTime>false</isCustomReservationTime><icon/><defaultImageAttach/><defaultConfigAttach/></template></templates><orchestratedResources/><abstractResources/><topologies/></inventory>
+<?xml version='1.0' encoding='UTF-8'?>
+<inventory format-version="1.0">
+	<templates>
+		<template>
+			<id>56ecd8a8-602e-496b-a645-162fb7d68741</id>
+			<revisionId>56ecd8a8-602e-496b-a645-162fb7d68741</revisionId>
+			<name>T1</name>
+			<description></description>
+			<isTemplate>true</isTemplate>
+			<type>DEVICE</type>
+			<interfaceType>ORCHESTRATION</interfaceType>
+			<utilizationType>SHARED</utilizationType>
+			<reservationTime>IMMEDIATE</reservationTime>
+			<isCustomReservationTime>false</isCustomReservationTime>
+			<icon/>
+			<defaultImageAttach/>
+			<defaultConfigAttach/>
+		</template>
+		<template>
+			<id>2bd1aba6-9fbc-4782-9ec5-a44b5b54fb35</id>
+			<revisionId>2bd1aba6-9fbc-4782-9ec5-a44b5b54fb35</revisionId>
+			<name>T2</name>
+			<description></description>
+			<isTemplate>true</isTemplate>
+			<parentTemplateId>56ecd8a8-602e-496b-a645-162fb7d68741</parentTemplateId>
+			<type>DEVICE</type>
+			<interfaceType>ORCHESTRATION</interfaceType>
+			<utilizationType>SHARED</utilizationType>
+			<reservationTime>IMMEDIATE</reservationTime>
+			<isCustomReservationTime>false</isCustomReservationTime>
+			<icon/>
+			<defaultImageAttach/>
+			<defaultConfigAttach/>
+		</template>
+	</templates>
+	<orchestratedResources/>
+	<abstractResources/>
+	<topologies/>
+</inventory>
