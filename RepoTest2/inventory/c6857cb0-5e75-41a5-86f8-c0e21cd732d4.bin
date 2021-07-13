@@ -16,9 +16,9 @@
 <property isimportant="false" name="ilo_iconId"/>
 <property isimportant="false" name="hostResource_topologyResourceId"/>
 <property isimportant="false" name="hostResource_parentType"/>
+<property isimportant="false" name="orchestratedResourceRole">S2_ORCHESTRATED</property>
 <property isimportant="false" name="templateId">9ec1e17b-5bbe-4478-8120-1b9f4ac90ea8</property>
 <property isimportant="false" name="ilo_shape">RECTANGLE</property>
-<property isimportant="false" name="orchestratedResourceRole">S2_ORCHESTRATED</property>
 <boundary height="100" width="100" x="571" y="196"/>
 </resource>
 <resource guid="9ec1e17b-5bbe-4478-8120-1b9f4ac90ea8" id="i9d7e78e9-07c3-4033-af13-407fe843f80f" shared="true" type="device">
@@ -31,6 +31,30 @@
 <property isimportant="false" name="hostResource_parentType"/>
 <property isimportant="false" name="ilo_shape">RECTANGLE</property>
 <extensions type="com.fnfr.rm.condition" xs:namespace="com.fnfr.rm.condition">template[T1]</extensions>
+<extensions type="com.fnfr.itest.session" xs:namespace="com.fnfr.itest.session">
+<session name="SSH_Top" provider="com.fnfr">
+<id>3daf6d60-3bee-4bdc-ba0f-91e1f1ca8dc9</id>
+<isInherited>false</isInherited>
+<isDisabled>false</isDisabled>
+<sessionProfile version="8.6.0">
+<language>Python</language>
+<baseApplication>com.fnfr.svt.applications.ssh</baseApplication>
+<baseProfile/>
+<standalone>true</standalone>
+<sessionProperties type="com.fnfr.svt.applications.ssh.documents.SSHProperties">
+<ipAddress inherit="false">127.0.0.1</ipAddress>
+<port inherit="true"/>
+<user inherit="false">root</user>
+<password inherit="false">iRyLc4KQj80=</password>
+<version inherit="true"/>
+<TerminalProperties>
+<prompts inherit="true" merge="false"/>
+</TerminalProperties>
+</sessionProperties>
+<agentRequirements inherit="true"/>
+</sessionProfile>
+</session>
+</extensions>
 <boundary height="100" width="100" x="326.9999999999999" y="196"/>
 <property name="inventoryName"/>
 </resource>
@@ -44,6 +68,30 @@
 <property isimportant="false" name="hostResource_parentType"/>
 <property isimportant="false" name="ilo_shape">RECTANGLE</property>
 <extensions type="com.fnfr.rm.condition" xs:namespace="com.fnfr.rm.condition">template[T1]</extensions>
+<extensions type="com.fnfr.itest.session" xs:namespace="com.fnfr.itest.session">
+<session name="SSH_Top" provider="com.fnfr">
+<id>6ba40f39-17e6-444f-9cce-50b47fa316e4</id>
+<isInherited>false</isInherited>
+<isDisabled>false</isDisabled>
+<sessionProfile version="8.6.0">
+<language>Python</language>
+<baseApplication>com.fnfr.svt.applications.ssh</baseApplication>
+<baseProfile/>
+<standalone>true</standalone>
+<sessionProperties type="com.fnfr.svt.applications.ssh.documents.SSHProperties">
+<ipAddress inherit="false">127.0.0.1</ipAddress>
+<port inherit="true"/>
+<user inherit="false">root</user>
+<password inherit="false">iRyLc4KQj80=</password>
+<version inherit="true"/>
+<TerminalProperties>
+<prompts inherit="true" merge="false"/>
+</TerminalProperties>
+</sessionProperties>
+<agentRequirements inherit="true"/>
+</sessionProfile>
+</session>
+</extensions>
 <boundary height="100" width="100" x="450" y="196"/>
 <property name="inventoryName"/>
 </resource>
