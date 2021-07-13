@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<TestCaseCatalog version="8.5.0.202104211757">
+<TestCaseCatalog version="8.6.0.202107090704">
     <testCaseCatalog>
         <item name="dependentFiles/qucikCallLibrary.fftc">
-            <tcDescriptor version="8.5.0.202104211757">
+            <tcDescriptor version="8.6.0.202107090704">
                 <general>
                     <sessionClass includeTestCase="true" sessionType="project://RepoTest2/dependentFiles/REST.ffsp"/>
                     <language>Python</language>
