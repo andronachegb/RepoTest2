@@ -71,6 +71,37 @@
 				<name></name>
 			</resourceGroup>
 			<icon/>
+			<nestedResources>
+				<orchestratedResource>
+					<id>d74c3e44-fecd-42c3-8eeb-0b0d9acc8e29</id>
+					<type>DEVICE</type>
+					<name>S1</name>
+					<description></description>
+					<condition>template[T2]</condition>
+					<role>S1_VELOCITY_SELECTED</role>
+					<referencedTemplateId>cc3659ab-706a-4739-85e3-0b0b56ac477c</referencedTemplateId>
+					<visibility>PUBLIC</visibility>
+					<resourceGroup>
+						<name></name>
+					</resourceGroup>
+					<icon/>
+					<nestedResources>
+						<orchestratedResource>
+							<id>0743094a-1ce1-4280-ae27-e5d828327a05</id>
+							<type>DEVICE</type>
+							<name>S2</name>
+							<description></description>
+							<role>S2_ORCHESTRATED</role>
+							<referencedTemplateId>29044cfd-6fbd-4268-a744-75c86b667080</referencedTemplateId>
+							<visibility>PUBLIC</visibility>
+							<resourceGroup>
+								<name></name>
+							</resourceGroup>
+							<icon/>
+						</orchestratedResource>
+					</nestedResources>
+				</orchestratedResource>
+			</nestedResources>
 		</orchestratedResource>
 	</orchestratedResources>
 	<abstractResources>
@@ -83,6 +114,32 @@
 			<reservationTime>IMMEDIATE</reservationTime>
 			<isPublic>true</isPublic>
 			<icon/>
+			<nestedResources>
+				<abstractResource>
+					<id>86166e9f-6eb5-4615-a836-a3e144e6a9d7</id>
+					<type>DEVICE</type>
+					<name>Abs T2</name>
+					<description></description>
+					<condition>template[T2]</condition>
+					<reservationTime>IMMEDIATE</reservationTime>
+					<isPublic>true</isPublic>
+					<referencedTemplateId>cc3659ab-706a-4739-85e3-0b0b56ac477c</referencedTemplateId>
+					<icon/>
+					<nestedResources>
+						<abstractResource>
+							<id>c11714ad-b18c-4195-8df7-1ff037f0c058</id>
+							<type>DEVICE</type>
+							<name>New Resource</name>
+							<description></description>
+							<condition>template[T3]</condition>
+							<reservationTime>IMMEDIATE</reservationTime>
+							<isPublic>true</isPublic>
+							<referencedTemplateId>29044cfd-6fbd-4268-a744-75c86b667080</referencedTemplateId>
+							<icon/>
+						</abstractResource>
+					</nestedResources>
+				</abstractResource>
+			</nestedResources>
 		</abstractResource>
 	</abstractResources>
 	<topologies/>
