@@ -22,7 +22,6 @@
 			<name>T2</name>
 			<description></description>
 			<isTemplate>true</isTemplate>
-			<parentTemplateId>56ecd8a8-602e-496b-a645-162fb7d68741</parentTemplateId>
 			<type>DEVICE</type>
 			<interfaceType>ORCHESTRATION</interfaceType>
 			<utilizationType>SHARED</utilizationType>
