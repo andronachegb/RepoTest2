@@ -2,29 +2,33 @@
 <inventory format-version="1.0">
 	<templates>
 		<template>
-			<id>56ecd8a8-602e-496b-a645-162fb7d68741</id>
-			<revisionId>56ecd8a8-602e-496b-a645-162fb7d68741</revisionId>
+			<id>87ac5c18-4eea-482d-b9bf-88ae89a578e4</id>
+			<revisionId>87ac5c18-4eea-482d-b9bf-88ae89a578e4</revisionId>
 			<name>T1</name>
 			<description></description>
 			<isTemplate>true</isTemplate>
 			<type>DEVICE</type>
-			<interfaceType>ORCHESTRATION</interfaceType>
+			<interfaceType>NONE</interfaceType>
 			<utilizationType>SHARED</utilizationType>
 			<reservationTime>IMMEDIATE</reservationTime>
 			<isCustomReservationTime>false</isCustomReservationTime>
 			<icon/>
 			<defaultImageAttach/>
 			<defaultConfigAttach/>
+			<nestedTemplates>
+				<nestedTemplate>
+					<id>1eccfb1b-00c3-4b2e-97d1-244dbb79d626</id>
+				</nestedTemplate>
+			</nestedTemplates>
 		</template>
 		<template>
-			<id>2bd1aba6-9fbc-4782-9ec5-a44b5b54fb35</id>
-			<revisionId>2bd1aba6-9fbc-4782-9ec5-a44b5b54fb35</revisionId>
+			<id>1eccfb1b-00c3-4b2e-97d1-244dbb79d626</id>
+			<revisionId>1eccfb1b-00c3-4b2e-97d1-244dbb79d626</revisionId>
 			<name>T2</name>
 			<description></description>
 			<isTemplate>true</isTemplate>
-			<parentTemplateId>56ecd8a8-602e-496b-a645-162fb7d68741</parentTemplateId>
 			<type>DEVICE</type>
-			<interfaceType>ORCHESTRATION</interfaceType>
+			<interfaceType>NONE</interfaceType>
 			<utilizationType>SHARED</utilizationType>
 			<reservationTime>IMMEDIATE</reservationTime>
 			<isCustomReservationTime>false</isCustomReservationTime>
@@ -33,7 +37,62 @@
 			<defaultConfigAttach/>
 		</template>
 	</templates>
-	<orchestratedResources/>
-	<abstractResources/>
+	<orchestratedResources>
+		<orchestratedResource>
+			<id>7a981a58-c312-4322-b228-dbc96d500b8f</id>
+			<type>DEVICE</type>
+			<name>S1</name>
+			<description></description>
+			<condition>template[T1]</condition>
+			<role>S1_VELOCITY_SELECTED</role>
+			<referencedTemplateId>87ac5c18-4eea-482d-b9bf-88ae89a578e4</referencedTemplateId>
+			<visibility>PUBLIC</visibility>
+			<resourceGroup>
+				<name></name>
+			</resourceGroup>
+			<icon/>
+			<nestedResources>
+				<orchestratedResource>
+					<id>fffb1d45-8019-4e6f-9699-ff88432c592d</id>
+					<type>DEVICE</type>
+					<name>S2</name>
+					<description></description>
+					<condition>template[T2]</condition>
+					<role>S1_VELOCITY_SELECTED</role>
+					<referencedTemplateId>1eccfb1b-00c3-4b2e-97d1-244dbb79d626</referencedTemplateId>
+					<visibility>PUBLIC</visibility>
+					<resourceGroup>
+						<name></name>
+					</resourceGroup>
+					<icon/>
+				</orchestratedResource>
+			</nestedResources>
+		</orchestratedResource>
+	</orchestratedResources>
+	<abstractResources>
+		<abstractResource>
+			<id>0b36025a-08e2-4bdc-b910-5040c54ef4c8</id>
+			<type>DEVICE</type>
+			<name>AbsT1</name>
+			<description></description>
+			<condition>template[T1]</condition>
+			<reservationTime>IMMEDIATE</reservationTime>
+			<isPublic>true</isPublic>
+			<icon/>
+			<nestedResources>
+				<abstractResource>
+					<id>69b94d1b-f8e5-4f51-b5cc-87fed0c96fb9</id>
+					<type>DEVICE</type>
+					<name>AbsT2</name>
+					<description></description>
+					<condition>template[T2]</condition>
+					<reservationTime>IMMEDIATE</reservationTime>
+					<isPublic>true</isPublic>
+					<referencedTemplateId>1eccfb1b-00c3-4b2e-97d1-244dbb79d626</referencedTemplateId>
+					<icon/>
+				</abstractResource>
+			</nestedResources>
+		</abstractResource>
+	</abstractResources>
 	<topologies/>
 </inventory>
