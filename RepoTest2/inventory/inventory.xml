@@ -4,8 +4,8 @@
 		<template>
 			<id>c1221996-32cf-42c4-8000-6c72ab92f858</id>
 			<revisionId>c1221996-32cf-42c4-8000-6c72ab92f858</revisionId>
-			<name>Configurable Layer 1 Switch Package Import</name>
-			<description>Configurable Layer 1 Switch Package Import</description>
+			<name>Configurable Layer 1 Switch Package Import Clone</name>
+			<description>Configurable Layer 1 Switch Package Import Clone</description>
 			<isTemplate>true</isTemplate>
 			<type>DEVICE</type>
 			<interfaceType>CONFIGURABLE_LAYER1_SWITCH</interfaceType>
@@ -511,8 +511,8 @@ Area</value>
 		<template>
 			<id>15dd66b8-873e-4eb8-bf23-b6af2e59c344</id>
 			<revisionId>15dd66b8-873e-4eb8-bf23-b6af2e59c344</revisionId>
-			<name>Configurable Layer 2 Switch Package Import</name>
-			<description>Configurable Layer 2 Switch Package Import</description>
+			<name>Configurable Layer 2 Switch Package Import Clone</name>
+			<description>Configurable Layer 2 Switch Package Import Clone</description>
 			<isTemplate>true</isTemplate>
 			<type>DEVICE</type>
 			<interfaceType>CONFIGURABLE_LAYER2_SWITCH</interfaceType>
@@ -1013,8 +1013,8 @@ Area</value>
 		<template>
 			<id>baf4ac15-b4df-406d-ad23-a6be30b6c4d2</id>
 			<revisionId>baf4ac15-b4df-406d-ad23-a6be30b6c4d2</revisionId>
-			<name>Configurable Package Import</name>
-			<description>Configurable Package Import</description>
+			<name>Configurable Package Import Clone</name>
+			<description>Configurable Package Import Clone</description>
 			<isTemplate>true</isTemplate>
 			<type>DEVICE</type>
 			<interfaceType>CONFIGURABLE</interfaceType>
@@ -1520,8 +1520,8 @@ Area</value>
 		<template>
 			<id>b4988346-3a16-4aaf-90f5-07abf5f09258</id>
 			<revisionId>b4988346-3a16-4aaf-90f5-07abf5f09258</revisionId>
-			<name>Layer 1 Switch Package Import</name>
-			<description>Layer 1 Switch Package Import</description>
+			<name>Layer 1 Switch Package Import Clone</name>
+			<description>Layer 1 Switch Package Import Clone</description>
 			<isTemplate>true</isTemplate>
 			<type>DEVICE</type>
 			<interfaceType>LAYER1_SWITCH</interfaceType>
@@ -2015,8 +2015,8 @@ Area</value>
 		<template>
 			<id>ef8456ad-720b-4884-b89e-dd399ccf33d1</id>
 			<revisionId>ef8456ad-720b-4884-b89e-dd399ccf33d1</revisionId>
-			<name>Layer 2 Switch Package Import</name>
-			<description>Layer 2 Switch Package Import</description>
+			<name>Layer 2 Switch Package Import Clone</name>
+			<description>Layer 2 Switch Package Import Clone</description>
 			<isTemplate>true</isTemplate>
 			<type>DEVICE</type>
 			<interfaceType>LAYER2_SWITCH</interfaceType>
@@ -2505,8 +2505,8 @@ Area</value>
 		<template>
 			<id>d83fa07d-6b23-41ae-b25e-d8fff140bab6</id>
 			<revisionId>d83fa07d-6b23-41ae-b25e-d8fff140bab6</revisionId>
-			<name>Management Package Import</name>
-			<description>Management Package Import</description>
+			<name>Management Package Import Clone</name>
+			<description>Management Package Import Clone</description>
 			<isTemplate>true</isTemplate>
 			<type>DEVICE</type>
 			<interfaceType>MANAGEMENT</interfaceType>
@@ -2995,8 +2995,8 @@ Area</value>
 		<template>
 			<id>116675aa-7784-4656-bfa2-0f5278e6a864</id>
 			<revisionId>116675aa-7784-4656-bfa2-0f5278e6a864</revisionId>
-			<name>Network Port Package Import</name>
-			<description>Network Port Package Import</description>
+			<name>Network Port Package Import Clone</name>
+			<description>Network Port Package Import Clone</description>
 			<isTemplate>true</isTemplate>
 			<type>PORT</type>
 			<interfaceType>NONE</interfaceType>
@@ -3129,8 +3129,8 @@ Area</value>
 		<template>
 			<id>82c309d6-6c7e-49a4-8879-f93506a8eab4</id>
 			<revisionId>82c309d6-6c7e-49a4-8879-f93506a8eab4</revisionId>
-			<name>Orchestration Child 1 Package Import</name>
-			<description>Orchestration Child 1 Package Import</description>
+			<name>Orchestration Child 1 Package Import Clone</name>
+			<description>Orchestration Child 1 Package Import Clone</description>
 			<isTemplate>true</isTemplate>
 			<parentTemplateId>d3ab798e-9835-43a0-91fa-1bf1ea55da84</parentTemplateId>
 			<l2SwitchId>1c1b3c32-2194-4cfd-9f32-2e179fcd6540</l2SwitchId>
@@ -3594,8 +3594,8 @@ Area</value>
 		<template>
 			<id>20a8bf45-8811-49f5-8785-5423e2a1faa6</id>
 			<revisionId>20a8bf45-8811-49f5-8785-5423e2a1faa6</revisionId>
-			<name>Orchestration Child 2 Package Import</name>
-			<description>Orchestration Child 2 Package Import</description>
+			<name>Orchestration Child 2 Package Import Clone</name>
+			<description>Orchestration Child 2 Package Import Clone</description>
 			<isTemplate>true</isTemplate>
 			<parentTemplateId>82c309d6-6c7e-49a4-8879-f93506a8eab4</parentTemplateId>
 			<l2SwitchId>1c1b3c32-2194-4cfd-9f32-2e179fcd6540</l2SwitchId>
@@ -4059,8 +4059,8 @@ Area</value>
 		<template>
 			<id>80cbf52b-1a92-4749-a4fb-f648b01796b7</id>
 			<revisionId>80cbf52b-1a92-4749-a4fb-f648b01796b7</revisionId>
-			<name>Orchestration Nested 1 Package Import</name>
-			<description>Orchestration Nested 1 Package Import</description>
+			<name>Orchestration Nested 1 Package Import Clone</name>
+			<description>Orchestration Nested 1 Package Import Clone</description>
 			<isTemplate>true</isTemplate>
 			<type>DEVICE</type>
 			<interfaceType>ORCHESTRATION</interfaceType>
@@ -4554,8 +4554,8 @@ Area</value>
 		<template>
 			<id>743ad46f-6eaf-4f23-951e-106eba72b5ce</id>
 			<revisionId>743ad46f-6eaf-4f23-951e-106eba72b5ce</revisionId>
-			<name>Orchestration Nested 2 Package Import</name>
-			<description>Orchestration Nested 2 Package Import</description>
+			<name>Orchestration Nested 2 Package Import Clone</name>
+			<description>Orchestration Nested 2 Package Import Clone</description>
 			<isTemplate>true</isTemplate>
 			<type>DEVICE</type>
 			<interfaceType>ORCHESTRATION</interfaceType>
@@ -5044,8 +5044,8 @@ Area</value>
 		<template>
 			<id>d3ab798e-9835-43a0-91fa-1bf1ea55da84</id>
 			<revisionId>d3ab798e-9835-43a0-91fa-1bf1ea55da84</revisionId>
-			<name>Orchestration Parent Package Import</name>
-			<description>Orchestration Parent Package Import</description>
+			<name>Orchestration Parent Package Import Clone</name>
+			<description>Orchestration Parent Package Import Clone</description>
 			<isTemplate>true</isTemplate>
 			<type>DEVICE</type>
 			<interfaceType>ORCHESTRATION</interfaceType>
@@ -5499,8 +5499,8 @@ Area</value>
 		<template>
 			<id>9f72e332-30f7-448c-9595-db47394a078c</id>
 			<revisionId>9f72e332-30f7-448c-9595-db47394a078c</revisionId>
-			<name>Patch Panel Package Import</name>
-			<description>Patch Panel Package Import</description>
+			<name>Patch Panel Package Import Clone</name>
+			<description>Patch Panel Package Import Clone</description>
 			<isTemplate>true</isTemplate>
 			<type>DEVICE</type>
 			<interfaceType>PATCH_PANEL</interfaceType>
@@ -5951,9 +5951,9 @@ Area</value>
 		<orchestratedResource>
 			<id>9129dd28-2f22-4c4a-aed8-c5b7309cc045</id>
 			<type>DEVICE</type>
-			<name>Orchestrated Parent Package Import</name>
-			<description>Orchestrated Parent Package Import</description>
-			<condition>template[Orchestration Parent Package Import]</condition>
+			<name>Orchestrated Parent Package Import Clone</name>
+			<description>Orchestrated Parent Package Import Clone</description>
+			<condition>template[Orchestration Parent Package Import Clone]</condition>
 			<role>S1_VELOCITY_SELECTED</role>
 			<referencedTemplateId>d3ab798e-9835-43a0-91fa-1bf1ea55da84</referencedTemplateId>
 			<visibility>PUBLIC</visibility>
@@ -6011,7 +6011,7 @@ Area</value>
 					<referencedTemplateId>80cbf52b-1a92-4749-a4fb-f648b01796b7</referencedTemplateId>
 					<visibility>PUBLIC</visibility>
 					<resourceGroup>
-						<name>Resource Group Package Import</name>
+						<name>Resource Group Package Import Clone</name>
 					</resourceGroup>
 					<icon>
 						<attachment>
@@ -6064,7 +6064,7 @@ Area</value>
 							<referencedTemplateId>743ad46f-6eaf-4f23-951e-106eba72b5ce</referencedTemplateId>
 							<visibility>PUBLIC</visibility>
 							<resourceGroup>
-								<name>Resource Group Package Import</name>
+								<name>Resource Group Package Import Clone</name>
 							</resourceGroup>
 							<icon>
 								<attachment>
@@ -6143,7 +6143,7 @@ Area</value>
 							<referencedTemplateId>743ad46f-6eaf-4f23-951e-106eba72b5ce</referencedTemplateId>
 							<visibility>PUBLIC</visibility>
 							<resourceGroup>
-								<name>Resource Group Package Import</name>
+								<name>Resource Group Package Import Clone</name>
 							</resourceGroup>
 							<icon>
 								<attachment>
@@ -6188,7 +6188,7 @@ Area</value>
 					<referencedTemplateId>80cbf52b-1a92-4749-a4fb-f648b01796b7</referencedTemplateId>
 					<visibility>PUBLIC</visibility>
 					<resourceGroup>
-						<name>Resource Group Package Import</name>
+						<name>Resource Group Package Import Clone</name>
 					</resourceGroup>
 					<icon>
 						<attachment>
@@ -6203,7 +6203,7 @@ Area</value>
 					<type>PORT</type>
 					<name>Orch Port 1</name>
 					<description>Orch Port </description>
-					<condition>template[Network Port Package Import]</condition>
+					<condition>template[Network Port Package Import Clone]</condition>
 					<role>S1_VELOCITY_SELECTED</role>
 					<referencedTemplateId>116675aa-7784-4656-bfa2-0f5278e6a864</referencedTemplateId>
 					<visibility>PUBLIC</visibility>
@@ -6217,7 +6217,7 @@ Area</value>
 					<type>PORT</type>
 					<name>Orch Port 2</name>
 					<description>Orch Port </description>
-					<condition>template[Network Port Package Import]</condition>
+					<condition>template[Network Port Package Import Clone]</condition>
 					<role>S1_VELOCITY_SELECTED</role>
 					<referencedTemplateId>116675aa-7784-4656-bfa2-0f5278e6a864</referencedTemplateId>
 					<visibility>PUBLIC</visibility>
@@ -6233,8 +6233,8 @@ Area</value>
 		<abstractResource>
 			<id>0c16971a-4b8c-482c-9916-c02abf9899f2</id>
 			<type>LINK</type>
-			<name>Abstract Link Package Import</name>
-			<description>Abstract Link Package Import</description>
+			<name>Abstract Link Package Import Clone</name>
+			<description>Abstract Link Package Import Clone</description>
 			<condition>sum([Port Speed]) > 0</condition>
 			<reservationTime>IMMEDIATE</reservationTime>
 			<isPublic>true</isPublic>
@@ -6243,9 +6243,9 @@ Area</value>
 		<abstractResource>
 			<id>3b87c788-9426-4734-a9ef-31c454e8248d</id>
 			<type>DEVICE</type>
-			<name>Abstract Orchestrated Parent Package Import</name>
-			<description>Abstract Orchestrated Parent Package Import</description>
-			<condition>template[Orchestration Parent Package Import]</condition>
+			<name>Abstract Orchestrated Parent Package Import Clone</name>
+			<description>Abstract Orchestrated Parent Package Import Clone</description>
+			<condition>template[Orchestration Parent Package Import Clone]</condition>
 			<reservationTime>IMMEDIATE</reservationTime>
 			<isPublic>true</isPublic>
 			<icon>
@@ -6295,7 +6295,7 @@ Area</value>
 					<type>DEVICE</type>
 					<name>Abstract Orchestrated Nested 1 1</name>
 					<description>Abstract Orchestrated Nested 1</description>
-					<condition>template[Orchestration Nested 1 Package Import]</condition>
+					<condition>template[Orchestration Nested 1 Package Import Clone]</condition>
 					<reservationTime>IMMEDIATE</reservationTime>
 					<isPublic>true</isPublic>
 					<referencedTemplateId>80cbf52b-1a92-4749-a4fb-f648b01796b7</referencedTemplateId>
@@ -6346,7 +6346,7 @@ Area</value>
 							<type>DEVICE</type>
 							<name>Abstract Orchestrated Nested 2 1</name>
 							<description>Abstract Orchestrated Nested 2 </description>
-							<condition>template[Orchestration Nested 2 Package Import]</condition>
+							<condition>template[Orchestration Nested 2 Package Import Clone]</condition>
 							<reservationTime>IMMEDIATE</reservationTime>
 							<isPublic>true</isPublic>
 							<referencedTemplateId>743ad46f-6eaf-4f23-951e-106eba72b5ce</referencedTemplateId>
@@ -6363,7 +6363,7 @@ Area</value>
 									<type>PORT</type>
 									<name>Abstract Port 1</name>
 									<description>Abstract Port </description>
-									<condition>template[Network Port Package Import]</condition>
+									<condition>template[Network Port Package Import Clone]</condition>
 									<reservationTime>IMMEDIATE</reservationTime>
 									<isPublic>true</isPublic>
 									<referencedTemplateId>116675aa-7784-4656-bfa2-0f5278e6a864</referencedTemplateId>
@@ -6374,7 +6374,7 @@ Area</value>
 									<type>PORT</type>
 									<name>Abstract Port 2</name>
 									<description>Abstract Port </description>
-									<condition>template[Network Port Package Import]</condition>
+									<condition>template[Network Port Package Import Clone]</condition>
 									<reservationTime>IMMEDIATE</reservationTime>
 									<isPublic>true</isPublic>
 									<referencedTemplateId>116675aa-7784-4656-bfa2-0f5278e6a864</referencedTemplateId>
@@ -6387,7 +6387,7 @@ Area</value>
 							<type>DEVICE</type>
 							<name>Abstract Orchestrated Nested 2 2</name>
 							<description>Abstract Orchestrated Nested 2 </description>
-							<condition>template[Orchestration Nested 2 Package Import]</condition>
+							<condition>template[Orchestration Nested 2 Package Import Clone]</condition>
 							<reservationTime>IMMEDIATE</reservationTime>
 							<isPublic>true</isPublic>
 							<referencedTemplateId>743ad46f-6eaf-4f23-951e-106eba72b5ce</referencedTemplateId>
@@ -6404,7 +6404,7 @@ Area</value>
 							<type>PORT</type>
 							<name>Abstract Port1</name>
 							<description>Abstract Port</description>
-							<condition>template[Network Port Package Import]</condition>
+							<condition>template[Network Port Package Import Clone]</condition>
 							<reservationTime>IMMEDIATE</reservationTime>
 							<isPublic>true</isPublic>
 							<referencedTemplateId>116675aa-7784-4656-bfa2-0f5278e6a864</referencedTemplateId>
@@ -6415,7 +6415,7 @@ Area</value>
 							<type>PORT</type>
 							<name>Abstract Port2</name>
 							<description>Abstract Port</description>
-							<condition>template[Network Port Package Import]</condition>
+							<condition>template[Network Port Package Import Clone]</condition>
 							<reservationTime>IMMEDIATE</reservationTime>
 							<isPublic>true</isPublic>
 							<referencedTemplateId>116675aa-7784-4656-bfa2-0f5278e6a864</referencedTemplateId>
@@ -6428,7 +6428,7 @@ Area</value>
 					<type>DEVICE</type>
 					<name>Abstract Orchestrated Nested 1 2</name>
 					<description>Abstract Orchestrated Nested 1</description>
-					<condition>template[Orchestration Nested 1 Package Import]</condition>
+					<condition>template[Orchestration Nested 1 Package Import Clone]</condition>
 					<reservationTime>IMMEDIATE</reservationTime>
 					<isPublic>true</isPublic>
 					<referencedTemplateId>80cbf52b-1a92-4749-a4fb-f648b01796b7</referencedTemplateId>
@@ -6445,7 +6445,7 @@ Area</value>
 					<type>PORT</type>
 					<name>Abstract Port 1</name>
 					<description>Abstract Port </description>
-					<condition>template[Network Port Package Import]</condition>
+					<condition>template[Network Port Package Import Clone]</condition>
 					<reservationTime>IMMEDIATE</reservationTime>
 					<isPublic>true</isPublic>
 					<referencedTemplateId>116675aa-7784-4656-bfa2-0f5278e6a864</referencedTemplateId>
@@ -6456,7 +6456,7 @@ Area</value>
 					<type>PORT</type>
 					<name>Abstract Port 2</name>
 					<description>Abstract Port </description>
-					<condition>template[Network Port Package Import]</condition>
+					<condition>template[Network Port Package Import Clone]</condition>
 					<reservationTime>IMMEDIATE</reservationTime>
 					<isPublic>true</isPublic>
 					<referencedTemplateId>116675aa-7784-4656-bfa2-0f5278e6a864</referencedTemplateId>
@@ -6467,9 +6467,9 @@ Area</value>
 		<abstractResource>
 			<id>a6fc1070-071b-4ebf-b28e-6d75b57e1201</id>
 			<type>PORT</type>
-			<name>Abstract Port Package Import</name>
-			<description>Abstract Port Package Import</description>
-			<condition>template[Network Port Package Import]</condition>
+			<name>Abstract Port Package Import Clone</name>
+			<description>Abstract Port Package Import Clone</description>
+			<condition>template[Network Port Package Import Clone]</condition>
 			<reservationTime>IMMEDIATE</reservationTime>
 			<isPublic>false</isPublic>
 			<icon/>
