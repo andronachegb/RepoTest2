@@ -2,13 +2,13 @@
 <inventory format-version="1.0">
 	<templates>
 		<template>
-			<id>87ac5c18-4eea-482d-b9bf-88ae89a578e4</id>
-			<revisionId>87ac5c18-4eea-482d-b9bf-88ae89a578e4</revisionId>
+			<id>059f2014-373d-4302-9d75-4437c12eae07</id>
+			<revisionId>059f2014-373d-4302-9d75-4437c12eae07</revisionId>
 			<name>T1</name>
 			<description></description>
 			<isTemplate>true</isTemplate>
 			<type>DEVICE</type>
-			<interfaceType>NONE</interfaceType>
+			<interfaceType>ORCHESTRATION</interfaceType>
 			<utilizationType>SHARED</utilizationType>
 			<reservationTime>IMMEDIATE</reservationTime>
 			<isCustomReservationTime>false</isCustomReservationTime>
@@ -17,18 +17,38 @@
 			<defaultConfigAttach/>
 			<nestedTemplates>
 				<nestedTemplate>
-					<id>1eccfb1b-00c3-4b2e-97d1-244dbb79d626</id>
+					<id>cc3659ab-706a-4739-85e3-0b0b56ac477c</id>
 				</nestedTemplate>
 			</nestedTemplates>
 		</template>
 		<template>
-			<id>1eccfb1b-00c3-4b2e-97d1-244dbb79d626</id>
-			<revisionId>1eccfb1b-00c3-4b2e-97d1-244dbb79d626</revisionId>
+			<id>cc3659ab-706a-4739-85e3-0b0b56ac477c</id>
+			<revisionId>cc3659ab-706a-4739-85e3-0b0b56ac477c</revisionId>
 			<name>T2</name>
 			<description></description>
 			<isTemplate>true</isTemplate>
 			<type>DEVICE</type>
-			<interfaceType>NONE</interfaceType>
+			<interfaceType>ORCHESTRATION</interfaceType>
+			<utilizationType>SHARED</utilizationType>
+			<reservationTime>IMMEDIATE</reservationTime>
+			<isCustomReservationTime>false</isCustomReservationTime>
+			<icon/>
+			<defaultImageAttach/>
+			<defaultConfigAttach/>
+			<nestedTemplates>
+				<nestedTemplate>
+					<id>29044cfd-6fbd-4268-a744-75c86b667080</id>
+				</nestedTemplate>
+			</nestedTemplates>
+		</template>
+		<template>
+			<id>29044cfd-6fbd-4268-a744-75c86b667080</id>
+			<revisionId>29044cfd-6fbd-4268-a744-75c86b667080</revisionId>
+			<name>T3</name>
+			<description></description>
+			<isTemplate>true</isTemplate>
+			<type>DEVICE</type>
+			<interfaceType>ORCHESTRATION</interfaceType>
 			<utilizationType>SHARED</utilizationType>
 			<reservationTime>IMMEDIATE</reservationTime>
 			<isCustomReservationTime>false</isCustomReservationTime>
@@ -39,13 +59,13 @@
 	</templates>
 	<orchestratedResources>
 		<orchestratedResource>
-			<id>7a981a58-c312-4322-b228-dbc96d500b8f</id>
+			<id>103755a7-bda2-4d79-85c1-e6a57f90836a</id>
 			<type>DEVICE</type>
 			<name>S1</name>
 			<description></description>
 			<condition>template[T1]</condition>
 			<role>S1_VELOCITY_SELECTED</role>
-			<referencedTemplateId>87ac5c18-4eea-482d-b9bf-88ae89a578e4</referencedTemplateId>
+			<referencedTemplateId>059f2014-373d-4302-9d75-4437c12eae07</referencedTemplateId>
 			<visibility>PUBLIC</visibility>
 			<resourceGroup>
 				<name></name>
@@ -53,27 +73,42 @@
 			<icon/>
 			<nestedResources>
 				<orchestratedResource>
-					<id>fffb1d45-8019-4e6f-9699-ff88432c592d</id>
+					<id>d74c3e44-fecd-42c3-8eeb-0b0d9acc8e29</id>
 					<type>DEVICE</type>
-					<name>S2</name>
+					<name>S1</name>
 					<description></description>
 					<condition>template[T2]</condition>
 					<role>S1_VELOCITY_SELECTED</role>
-					<referencedTemplateId>1eccfb1b-00c3-4b2e-97d1-244dbb79d626</referencedTemplateId>
+					<referencedTemplateId>cc3659ab-706a-4739-85e3-0b0b56ac477c</referencedTemplateId>
 					<visibility>PUBLIC</visibility>
 					<resourceGroup>
 						<name></name>
 					</resourceGroup>
 					<icon/>
+					<nestedResources>
+						<orchestratedResource>
+							<id>0743094a-1ce1-4280-ae27-e5d828327a05</id>
+							<type>DEVICE</type>
+							<name>S2</name>
+							<description></description>
+							<role>S2_ORCHESTRATED</role>
+							<referencedTemplateId>29044cfd-6fbd-4268-a744-75c86b667080</referencedTemplateId>
+							<visibility>PUBLIC</visibility>
+							<resourceGroup>
+								<name></name>
+							</resourceGroup>
+							<icon/>
+						</orchestratedResource>
+					</nestedResources>
 				</orchestratedResource>
 			</nestedResources>
 		</orchestratedResource>
 	</orchestratedResources>
 	<abstractResources>
 		<abstractResource>
-			<id>0b36025a-08e2-4bdc-b910-5040c54ef4c8</id>
+			<id>2c22ec9e-28f4-4783-97f5-268c45679378</id>
 			<type>DEVICE</type>
-			<name>AbsT1</name>
+			<name>Abs T1</name>
 			<description></description>
 			<condition>template[T1]</condition>
 			<reservationTime>IMMEDIATE</reservationTime>
@@ -81,15 +116,28 @@
 			<icon/>
 			<nestedResources>
 				<abstractResource>
-					<id>69b94d1b-f8e5-4f51-b5cc-87fed0c96fb9</id>
+					<id>86166e9f-6eb5-4615-a836-a3e144e6a9d7</id>
 					<type>DEVICE</type>
-					<name>AbsT2</name>
+					<name>Abs T2</name>
 					<description></description>
 					<condition>template[T2]</condition>
 					<reservationTime>IMMEDIATE</reservationTime>
 					<isPublic>true</isPublic>
-					<referencedTemplateId>1eccfb1b-00c3-4b2e-97d1-244dbb79d626</referencedTemplateId>
+					<referencedTemplateId>cc3659ab-706a-4739-85e3-0b0b56ac477c</referencedTemplateId>
 					<icon/>
+					<nestedResources>
+						<abstractResource>
+							<id>c11714ad-b18c-4195-8df7-1ff037f0c058</id>
+							<type>DEVICE</type>
+							<name>New Resource</name>
+							<description></description>
+							<condition>template[T3]</condition>
+							<reservationTime>IMMEDIATE</reservationTime>
+							<isPublic>true</isPublic>
+							<referencedTemplateId>29044cfd-6fbd-4268-a744-75c86b667080</referencedTemplateId>
+							<icon/>
+						</abstractResource>
+					</nestedResources>
 				</abstractResource>
 			</nestedResources>
 		</abstractResource>
