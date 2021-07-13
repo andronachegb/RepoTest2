@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><tbml xmlns="http://www.teslaalliance.org/trs/tbml/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.teslaalliance.org/trs/tbml/1.0/tbml-core.xsd">
+<header>
+<name>Topology Package</name>
+<description/>
+</header>
+<illustration>
+<layer/>
+</illustration>
+<body>
+<resources>
+<resource guid="i600dc78c-0e29-4ff5-a06b-e65349cdb5ac" id="i600dc78c-0e29-4ff5-a06b-e65349cdb5ac" shared="false" type="group">
+<property isimportant="false" name="name">Orch T1 Group</property>
+<property isimportant="false" name="description"/>
+<property isimportant="false" name="isorchestrated">true</property>
+<property isimportant="false" name="collapsed"/>
+<boundary height="275" width="140" x="730" y="107.00000000000003"/>
+<resource guid="c8f1b2c3-dab6-4f3f-b73d-3c362914b5a5" id="i6ea7d43c-fa64-4270-b82b-cd87bdcabc98" shared="true" type="device">
+<property isimportant="false" name="name">Orch T1</property>
+<property isimportant="false" name="description"/>
+<property isimportant="false" name="iconURI">ilo://api/0/resource/icon?id=c8f1b2c3-dab6-4f3f-b73d-3c362914b5a5</property>
+<property isimportant="false" name="reservationTime">IMMEDIATE</property>
+<property isimportant="false" name="ilo_iconId"/>
+<property isimportant="false" name="hostResource_topologyResourceId"/>
+<property isimportant="false" name="hostResource_parentType"/>
+<property isimportant="false" name="orchestratedResourceRole">S1_VELOCITY_SELECTED</property>
+<property isimportant="false" name="templateId">efeac09c-d47a-4a43-8621-d4c4ec57a571</property>
+<property isimportant="false" name="ilo_shape">RECTANGLE</property>
+<extensions type="com.fnfr.rm.condition" xs:namespace="com.fnfr.rm.condition">template[T1]</extensions>
+<boundary height="100" width="100" x="20" y="35"/>
+</resource>
+<resource guid="8e749722-41fd-4722-9dbe-d0e6b84e89b7" id="i9307b71e-4868-4fcb-8c3d-e261c528906c" shared="true" type="device">
+<property isimportant="false" name="name">Orch T3</property>
+<property isimportant="false" name="description"/>
+<property isimportant="false" name="iconURI">ilo://api/0/resource/icon?id=8e749722-41fd-4722-9dbe-d0e6b84e89b7</property>
+<property isimportant="false" name="reservationTime">IMMEDIATE</property>
+<property isimportant="false" name="ilo_iconId"/>
+<property isimportant="false" name="hostResource_topologyResourceId">i6ea7d43c-fa64-4270-b82b-cd87bdcabc98</property>
+<property isimportant="false" name="hostResource_parentType">PARENT</property>
+<property isimportant="false" name="orchestratedResourceRole">S2_ORCHESTRATED</property>
+<property isimportant="false" name="templateId">add7e13a-8e11-4fc2-a860-181b420b50bb</property>
+<property isimportant="false" name="ilo_shape">RECTANGLE</property>
+<boundary height="100" width="100" x="20" y="154.99999999999997"/>
+<extensions type="com.fnfr.rm.condition" xs:namespace="com.fnfr.rm.condition"/>
+</resource>
+</resource>
+</resources>
+<connectivity/>
+</body>
+</tbml>
