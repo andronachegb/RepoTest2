@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><tbml xmlns="http://www.teslaalliance.org/trs/tbml/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.teslaalliance.org/trs/tbml/1.0/tbml-core.xsd">
+<header>
+<name>TopInit</name>
+<description/>
+<isSharedAccess>false</isSharedAccess>
+</header>
+<illustration>
+<layer/>
+</illustration>
+<body>
+<resources>
+<resource guid="if1de5b78-8561-4e8e-aa06-aaaffb8d50d7" id="if1de5b78-8561-4e8e-aa06-aaaffb8d50d7" shared="false" type="group">
+<property isimportant="false" name="name">S2 Group</property>
+<property isimportant="false" name="description"/>
+<property isimportant="false" name="isorchestrated">true</property>
+<property isimportant="false" name="collapsed"/>
+<boundary height="275" width="140" x="567.416666666667" y="158.50000000000006"/>
+<resource guid="de620935-3718-474a-b31a-95011ddb3698" id="ia61525ea-becc-4819-a321-2e30067d790a" shared="true" type="device">
+<property isimportant="false" name="name">S2</property>
+<property isimportant="false" name="description"/>
+<property isimportant="false" name="iconURI">ilo://api/0/resource/icon?id=de620935-3718-474a-b31a-95011ddb3698</property>
+<property isimportant="false" name="reservationTime">IMMEDIATE</property>
+<property isimportant="false" name="ilo_iconId"/>
+<property isimportant="false" name="hostResource_topologyResourceId"/>
+<property isimportant="false" name="hostResource_parentType"/>
+<property isimportant="false" name="orchestratedResourceRole">S2_ORCHESTRATED</property>
+<property isimportant="false" name="templateId">dd97678f-b477-4379-9f00-aeee94d1f5ed</property>
+<property isimportant="false" name="ilo_shape">RECTANGLE</property>
+<boundary height="100" width="100" x="20" y="35"/>
+</resource>
+<resource guid="e2c1dddd-e070-4c01-8213-86acb1e7af5a" id="i58a7f8a4-05cd-41bb-b29e-70072f073536" shared="true" type="device">
+<property isimportant="false" name="name">OrchNested</property>
+<property isimportant="false" name="description"/>
+<property isimportant="false" name="iconURI">ilo://api/0/resource/icon?id=e2c1dddd-e070-4c01-8213-86acb1e7af5a</property>
+<property isimportant="false" name="reservationTime">IMMEDIATE</property>
+<property isimportant="false" name="ilo_iconId"/>
+<property isimportant="false" name="hostResource_topologyResourceId">ia61525ea-becc-4819-a321-2e30067d790a</property>
+<property isimportant="false" name="hostResource_parentType">PARENT</property>
+<property isimportant="false" name="orchestratedResourceRole">S2_ORCHESTRATED</property>
+<property isimportant="false" name="templateId">d1577ba4-bf1a-4356-84b8-b242b13cd95d</property>
+<property isimportant="false" name="ilo_shape">RECTANGLE</property>
+<boundary height="100" width="100" x="20" y="155"/>
+</resource>
+</resource>
+<resource guid="dd97678f-b477-4379-9f00-aeee94d1f5ed" id="ib934747e-2901-486d-a67e-505bbbb20c78" shared="true" type="device">
+<property isimportant="false" name="name">T1</property>
+<property isimportant="false" name="description"/>
+<property isimportant="false" name="iconURI">ilo://api/0/resource/icon?id=dd97678f-b477-4379-9f00-aeee94d1f5ed</property>
+<property isimportant="false" name="reservationTime">IMMEDIATE</property>
+<property isimportant="false" name="ilo_iconId"/>
+<property isimportant="false" name="hostResource_topologyResourceId"/>
+<property isimportant="false" name="hostResource_parentType"/>
+<property isimportant="false" name="ilo_shape">RECTANGLE</property>
+<extensions type="com.fnfr.rm.condition" xs:namespace="com.fnfr.rm.condition">template[T1]</extensions>
+<boundary height="100" width="100" x="366" y="180"/>
+<property name="inventoryName"/>
+</resource>
+<resource guid="d1577ba4-bf1a-4356-84b8-b242b13cd95d" id="ied165808-19bc-4f16-9ad5-6665c5ad31c6" shared="true" type="device">
+<property isimportant="false" name="name">T2</property>
+<property isimportant="false" name="description"/>
+<property isimportant="false" name="iconURI">ilo://api/0/resource/icon?id=d1577ba4-bf1a-4356-84b8-b242b13cd95d</property>
+<property isimportant="false" name="reservationTime">IMMEDIATE</property>
+<property isimportant="false" name="ilo_iconId"/>
+<property isimportant="false" name="hostResource_topologyResourceId"/>
+<property isimportant="false" name="hostResource_parentType"/>
+<property isimportant="false" name="ilo_shape">RECTANGLE</property>
+<extensions type="com.fnfr.rm.condition" xs:namespace="com.fnfr.rm.condition">template[T2]</extensions>
+<extensions type="com.fnfr.itest.session" xs:namespace="com.fnfr.itest.session">
+<session name="SSH" provider="com.fnfr">
+<id>f3fb6f97-edce-4640-8b02-182b8091eaa5</id>
+<isInherited>false</isInherited>
+<isDisabled>false</isDisabled>
+<sessionProfile version="8.7.0">
+<language>Python</language>
+<baseApplication>com.fnfr.svt.applications.ssh</baseApplication>
+<baseProfile/>
+<standalone>true</standalone>
+<sessionProperties type="com.fnfr.svt.applications.ssh.documents.SSHProperties">
+<ipAddress inherit="false">127.0.0.1</ipAddress>
+<port inherit="true"/>
+<user inherit="false">[velocity('property','username')]</user>
+<password inherit="false">d7VqHMc27Pk+julgJmPJeBnfrcqbypMQwXgj7YUWL6xIHNAaGBit5A==</password>
+<version inherit="true"/>
+<TerminalProperties>
+<prompts inherit="true" merge="false"/>
+</TerminalProperties>
+</sessionProperties>
+<agentRequirements inherit="true"/>
+</sessionProfile>
+</session>
+</extensions>
+<boundary height="100" width="100" x="366" y="343"/>
+<property name="inventoryName"/>
+</resource>
+</resources>
+<connectivity/>
+</body>
+</tbml>
